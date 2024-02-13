@@ -18,13 +18,13 @@ Brief introduction about the project. Include information about what the project
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/your-repository.git
+    git clone https://github.com/o-Erebus/MERN-Session-Management.git
     ```
 
 2. Navigate into the project directory:
 
     ```
-    cd your-repository
+    cd MERN-Session-Management
     ```
 
 3. Install dependencies:
