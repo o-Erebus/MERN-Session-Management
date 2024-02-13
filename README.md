@@ -1,4 +1,3 @@
-```markdown
 # Project Title
 
 Brief description of the project.
@@ -16,31 +15,35 @@ Brief introduction about the project. Include information about what the project
 
 ## Installation
 
-1. **Clone the repository:**
-   ```
-   git clone https://github.com/o-Erebus/MERN-Session-Management.git
-   ```
+1. Clone the repository:
 
-2. **Navigate into the project directory:**
-   ```
-   cd your-repository
-   ```
+    ```
+    git clone https://github.com/yourusername/your-repository.git
+    ```
 
-3. **Install dependencies:**
-   ```
-   npm install
-   ```
+2. Navigate into the project directory:
+
+    ```
+    cd your-repository
+    ```
+
+3. Install dependencies:
+
+    ```
+    npm install
+    ```
 
 ## Usage
 
-1. **Start the development server:**
-   ```
-   npm start
-   ```
+1. Start the development server:
 
-2. **Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).**
-   
-3. **You should see the login page. You can either log in with existing credentials or sign up for a new account.**
+    ```
+    npm start
+    ```
+
+2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
+
+3. You should see the login page. You can either log in with existing credentials or sign up for a new account.
 
 ## Dependencies
 
@@ -56,4 +59,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
