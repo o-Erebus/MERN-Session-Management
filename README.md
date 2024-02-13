@@ -1,10 +1,10 @@
-# Project Title
+# MERN Session Management
 
-Brief description of the project.
+MERN-Session-Management is a web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides user authentication and session management functionalities.
 
 ## Introduction
 
-Brief introduction about the project. Include information about what the project does and its purpose.
+MERN-Session-Management is designed to offer a robust solution for user authentication and session management in web applications. With features like signup, login, and session tracking, it provides a secure and seamless user experience. This project aims to simplify the implementation of user authentication and session management in MERN stack applications.
 
 ## Features
 
