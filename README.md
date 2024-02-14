@@ -35,7 +35,13 @@ MERN-Session-Management is designed to offer a robust solution for user authenti
 
 ## Usage
 
-1. Start the development server:
+2. Start the Node.js server:
+
+    ```
+    node server.js
+    ```
+
+2. Start the development server:
 
     ```
     npm start
