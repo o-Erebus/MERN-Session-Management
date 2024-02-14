@@ -35,7 +35,7 @@ MERN-Session-Management is designed to offer a robust solution for user authenti
 
 ## Usage
 
-2. Start the Node.js server:
+1. Start the Node.js server:
 
     ```
     node server.js
@@ -47,9 +47,9 @@ MERN-Session-Management is designed to offer a robust solution for user authenti
     npm start
     ```
 
-2. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
+3. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000).
 
-3. You should see the login page. You can either log in with existing credentials or sign up for a new account.
+4. You should see the login page. You can either log in with existing credentials or sign up for a new account.
 
 ## Dependencies
 
